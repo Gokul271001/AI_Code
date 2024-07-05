@@ -75,6 +75,3 @@ This project is a Flask-based chatbot application that interacts with a backend 
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
